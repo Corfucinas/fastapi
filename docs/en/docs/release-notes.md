@@ -2,6 +2,7 @@
 
 ## Latest Changes
 
+* [pull] master from tiangolo:master. PR [#14](https://github.com/Corfucinas/fastapi/pull/14) by [@pull[bot]](https://github.com/apps/pull).
 * 🌐 Initialize new language Korean for translations. PR [#2018](https://github.com/tiangolo/fastapi/pull/2018) by [@hard-coders](https://github.com/hard-coders).
 * 🌐 Add Portuguese translation of Deployment. PR [#1374](https://github.com/tiangolo/fastapi/pull/1374) by [@Serrones](https://github.com/Serrones).
 * 👷 Set GitHub Action Label Approved to run daily, not every minute. PR [#2163](https://github.com/tiangolo/fastapi/pull/2163) by [@tiangolo](https://github.com/tiangolo).
